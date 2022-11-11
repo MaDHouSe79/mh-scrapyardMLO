@@ -21,3 +21,8 @@
 ![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152813.png)
 ![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152904.png)
 ![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152947.png)
+
+
+### 🙈 Youtube & Discord
+- [Youtube](https://www.youtube.com/@MaDHouSe79)
+- [Discord](https://discord.gg/cEMSeE9dgS)
