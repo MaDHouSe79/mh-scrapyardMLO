@@ -1,3 +1,24 @@
+<p align="center">
+    <img width="140" src="https://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-M-icon.png" />  
+    <h1 align="center">Hi 👋, I'm MaDHouSe</h1>
+    <h3 align="center">A passionate allround developer </h3>    
+</p>
+<p align="center">
+  <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/issues">
+    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-scrapyardMLO"/> 
+  </a>
+  <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/network/members">
+    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-scrapyardMLO"/> 
+  </a>  
+  <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/stargazers">
+    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-scrapyardMLO"/> 
+  </a>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
+</p>
+
 ## MY Scrapyard MLO 
 - This is my first ymap that i made.
 - I know that the spray booth loses his colors in the evening/night but I don't know how to solve this.
