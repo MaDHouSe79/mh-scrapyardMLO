@@ -1,8 +1,9 @@
 ## MY Scrapyard MLO 
-- this is my first ymap that i made.
-- i know that the spray booth loses his colors in the evening/night but I don't know how to solve this.
-- if you know how i can fix it please let my know.
+- This is my first ymap that i made.
+- I know that the spray booth loses his colors in the evening/night but I don't know how to solve this.
+- If you know how i can fix that, please let my know.
 
+i created this ymap for mh-carlift, and will be available soon
 
 ### Screenshot
 ![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20151815.png)
