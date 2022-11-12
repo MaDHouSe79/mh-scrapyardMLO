@@ -13,6 +13,9 @@
   <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/stargazers">
     <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-scrapyardMLO"/> 
   </a>
+  <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-scrapyardMLO?color=black"/> 
+  </a>  
 </p>
 
 <p align="center">
