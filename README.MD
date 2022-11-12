@@ -145,4 +145,5 @@ Config.DoorList['scrapyard-halingate'] = {
 
 
 # LICENSE
+&copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)<br />
 [GPL LICENSE](./LICENSE)
