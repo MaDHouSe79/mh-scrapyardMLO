@@ -7,6 +7,9 @@
   <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/issues">
     <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-scrapyardMLO"/> 
   </a>
+  <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/watchers">
+    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-scrapyardMLO"/> 
+  </a> 
   <a href="https://github.com/MaDHouSe79/mh-scrapyardMLO/network/members">
     <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-scrapyardMLO"/> 
   </a>  
