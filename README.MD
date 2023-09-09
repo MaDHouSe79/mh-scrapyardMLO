@@ -25,9 +25,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
 </p>
 
-<p align="center">
-<img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
-</p>
+
 
 ## MY Scrapyard MLO 
 - This is my first ymap that i made.
@@ -37,12 +35,13 @@
 i created this ymap for my mh-carlift that is also available [here](https://github.com/MaDHouSe79/mh-carlift)
 
 ### Screenshot
-![foto](https://media.discordapp.net/attachments/1072167976834437130/1150026852019224737/scrapyard1.png?width=2232&height=1352)
-
-
-<p align="center">
-<img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
-</p>
+![foto](https://media.discordapp.net/attachments/1072167976834437130/1150026852019224737/scrapyard1.png)
+![foto](https://media.discordapp.net/attachments/1072167976834437130/1150026852916797510/scrapyard2.png)
+![foto](https://cdn.discordapp.com/attachments/1072167976834437130/1150026853634035762/scrapyard3.png)
+![foto](https://cdn.discordapp.com/attachments/1072167976834437130/1150026854565167124/scrapyard4.png)
+![foto](https://cdn.discordapp.com/attachments/1072167976834437130/1150026855710204004/scrapyard5.png)
+![foto](https://cdn.discordapp.com/attachments/1072167976834437130/1150026856712654848/scrapyard6.png)
+![foto](https://cdn.discordapp.com/attachments/1072167976834437130/1150026857861881927/scrapyard7.png)
 
 ### IF you have my scrapyard mlo then use this for qb-doorlocks so you lock the gates
 -- just change the job name
