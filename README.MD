@@ -37,22 +37,8 @@
 i created this ymap for my mh-carlift that is also available [here](https://github.com/MaDHouSe79/mh-carlift)
 
 ### Screenshot
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20151815.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20151856.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20151929.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152012.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152120.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152150.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152229.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152255.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152320.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152347.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152415.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152443.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152522.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152813.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152904.png)
-![foto](https://www.madirc.nl/fivem/scrapyardMLO/Schermafbeelding%202022-11-10%20152947.png)
+![foto](https://media.discordapp.net/attachments/1072167976834437130/1150026852019224737/scrapyard1.png?width=2232&height=1352)
+
 
 <p align="center">
 <img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
