@@ -123,10 +123,6 @@ Config.DoorList['scrapyard-halingate'] = {
 }
 ```
 
-<p align="center">
-<img alig src="https://raw.githubusercontent.com/kamranahmedse/driver.js/master/demo/images/split.png" />
-</p>
-
 ### 🙈 Youtube & Discord
 - [Youtube](https://www.youtube.com/@MaDHouSe79)
 - [Discord](https://discord.gg/cEMSeE9dgS)
