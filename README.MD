@@ -39,6 +39,7 @@ i created this ymap for my mh-carlift that is also available [here](https://gith
 ![foto](https://github.com/MaDHouSe79/mh-scrapyardMLO/blob/main/screenshots/2.png)
 ![foto](https://github.com/MaDHouSe79/mh-scrapyardMLO/blob/main/screenshots/3.png)
 ![foto](https://github.com/MaDHouSe79/mh-scrapyardMLO/blob/main/screenshots/4.png)
+![foto](https://github.com/MaDHouSe79/mh-scrapyardMLO/blob/main/screenshots/5.png)
 
 
 ### IF you have my scrapyard mlo then use this for qb-doorlocks so you lock the gates
