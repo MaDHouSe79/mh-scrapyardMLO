@@ -27,7 +27,7 @@
 
 
 
-## MY Scrapyard MLO 
+## MY Scrapyard with lift props and Scrapyard Without list props
 - This is my first ymap that i made.
 - I know that the spray booth loses his colors in the evening/night but I don't know how to solve this.
 - If you know how i can fix that, please let my know.
